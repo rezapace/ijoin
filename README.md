@@ -1,4 +1,4 @@
-# ijoin
+# 🌿 Bot Penghijauan Repository
 
 berisikan Bot untuk melakukan Penghijauan Repository
 
